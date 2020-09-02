@@ -17,7 +17,7 @@ We propose to develop an open source software platform that seizes on these oppo
 # Scope
 More specifically the software includes the following aspects: a Data Acquisition Package (DAP), Data Storage Package (DP), an Annotation Package (AP), a Prediction Package (PP), an Evaluation Package (EP) and a Reporting Package (RP). Below we give a summary of the purpose, functionalities and target groups for each of the components. 
 
-# Component
+# Components
 
 | Component | Description and Purpose | Functionalities | Target Groups |
 |--|--|--|--|

@@ -11,6 +11,7 @@ The life-cycle of an AI technology in health involves several steps. It starts f
 2. Health AIs at Scale: 
    a. Challenge: Regulatory compliance in health is an expensive process
    b. Idea: Map country requirements to automated tests
+
 We propose to develop an open source software platform that seizes on these opportunities to make health AIs usable at scale. This software tool is to include packages for the storage and annotation of data, prediction of diagnoses and evaluation as well as the reporting of the performance.
 
 # Scope

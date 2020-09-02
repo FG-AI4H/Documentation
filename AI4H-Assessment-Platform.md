@@ -6,11 +6,11 @@ In order to satisfy the needs to improve health globally across borders, the fol
 # Goals
 The life-cycle of an AI technology in health involves several steps. It starts from the collection of (annotated) data, goes to the development of an AI model and is followed by a careful evaluation. Each step requires multiple resources such as medical expertise, technology experts, and regulatory bodies, to annotate the data, develop the model and evaluate its performance. Based on our work over the last two years, we identified two opportunities to move the field of health AIs forward:
 1. The Arbiter Problem: 
-- Challenge: Companies do not want to give away data and solution, regulators cannot see them
-- Idea: Software platform as a safe and neutral arbiter between distrusting parties
+   a. Challenge: Companies do not want to give away data and solution, regulators cannot see them
+   b. Idea: Software platform as a safe and neutral arbiter between distrusting parties
 2. Health AIs at Scale: 
-- Challenge: Regulatory compliance in health is an expensive process
-- Idea: Map country requirements to automated tests
+   a. Challenge: Regulatory compliance in health is an expensive process
+   b. Idea: Map country requirements to automated tests
 We propose to develop an open source software platform that seizes on these opportunities to make health AIs usable at scale. This software tool is to include packages for the storage and annotation of data, prediction of diagnoses and evaluation as well as the reporting of the performance.
 
 # Scope

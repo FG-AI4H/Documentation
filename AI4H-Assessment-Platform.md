@@ -29,6 +29,16 @@ More specifically the software includes the following aspects: a Data Acquisitio
 | Reporting Package (RP) | A unified structure to communicate and report the properties, features, intended use and limitations of health AIs  helps connect different stakeholders. | A customizable reporting interface in which results of the EP component are presented | Manufacturers, notified regulatory bodies, health AI users (doctors, patients), health AI vendors |
 
 
+# Contributing
+The AI4H Assessment Platform is released under the non-restrictive Apache 2.0 license, and follows a very standard development process, using tracker for issues and merging pull requests into master. If you want to contribute even something trivial please do not hesitate, but follow the guidelines below.
+
+## Join the core team
+If you want to join the core team please send an email to [ml@mllab.ai](mailto:ml@mllab.ai) expressing your interest in joining a specific component development.
+
+## FG-AI4H Resources
+More information about the Focus Group can be found [here](https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx).
+
+
 
 
 

@@ -16,8 +16,18 @@ b. Opportunity: The software platform can serve as a safe and neutral arbiter be
    a. Challenge: Regulatory compliance of AI for health is a country-dependent process, which brings considerable costs.
 b. Opportunity: Map country requirements to automated tests.
 
-
 The Free Software Project capitalizes on these opportunities to make AI for health usable at scale. 
+
+
+Our product vision is the following:
+
+<p style="text-align: center;line-height: 25px;">For health AI companies and regulators,
+who need to proof that a health AI product is fit for purpose,
+the AI4H Assessment Platform is a software platform
+that supports the end-to-end process for assessing health AI algorithms on a global level.
+Unlike e.g. EvalAI and other existing AI assessment platform products
+our platform focuses specifically on healthcare and covers all additional aspects, including ground truth annotation, data & metadata management and reporting for health AI regulators.</p>
+
 
 # Scope
 The Free Software Project produces software comprising the foundation of the FG-AI4H Assessment Platform and addressing the aforementioned—and other—challenges in the field of AI for health. These are: Data Acquisition Package (DAP), Data Storage Package (DP), an Annotation Package (AP), a Prediction Package (PP), an Evaluation Package (EP), and a Reporting Package (RP). The following table highlights the purpose, functionalities, and target groups for each package.

@@ -22,7 +22,7 @@ Driver: [Marc Lecoultre](mailto:ml@mllab.ai)
 |  | 
 
 ### Meetings
-Bi-weekly calls on Thursdays (even weeks) from 1:30 to 3:00 pm CET 
+Bi-weekly calls on Thursdays (even weeks) from 1:30 to 3:00 pm CET. The meeting agenda is publicly available [here](https://calendar.google.com/calendar/u/2?cid=Y18yczg0M2U0ZDNiYWFhMjA4NzVjYmFna2N1NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 ### Documentation
 - [Wiki page](/Core-Package-\(CP\))
 

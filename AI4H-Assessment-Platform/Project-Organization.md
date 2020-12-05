@@ -10,13 +10,15 @@ The project is organized in 5 different streams:
 Each package has at least one driver in charge of reporting activities to the project management team. Drivers organize the work in their streams and coordinate with contributor members.
 
 ## 1. The Core Package
+### Membership
 Driver: [Joachim Krois](mailto:Joachim.krois@charite.de)
-Members:
-| Name | Email |
-|--|--|
-|  |  |
-|  |  |
-|  |  |
+| Members |
+|--|
+|  | 
+|  | 
+|  | 
+### Meetings
+### Documentation
 
 # Tooling
 The group uses the following toolset for communication, documentation and development purposes:

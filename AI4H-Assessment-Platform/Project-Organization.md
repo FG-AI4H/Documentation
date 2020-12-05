@@ -19,6 +19,7 @@ Driver: [Marc Lecoultre](mailto:ml@mllab.ai)
 |  | 
 
 ### Meetings
+Bi-weekly calls on Thursdays (even weeks) from 1:30 to 3:00 pm CET 
 ### Documentation
 - [Wiki page](/Core-Package-\(CP\))
 

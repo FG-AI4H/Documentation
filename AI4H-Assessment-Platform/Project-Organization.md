@@ -2,8 +2,8 @@
 The project is organized in 5 different streams:
 1. The Core Package (CP)
 1. The Data Acquisition Package (DAP)
-1. The Data Annotation Package (AP)
 1. The Data Storage Package (DP)
+1. The Data Annotation Package (AP)
 1. The Evaluation Package (merged with Prediction Package) (EP)
 1. The Reporting Package (RP)
 
@@ -14,7 +14,7 @@ The management team meets on a bi-weekly call on Thursdays (odd weeks) from 12:3
 
 ## 1. The Core Package
 ### Membership
-Driver: [Marc Lecoultre](mailto:ml@mllab.ai)
+Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
 | Members |
 |--|
 | [Dominik Schneider](mailto:dominik.a.schneider@merckgroup.com) | 
@@ -29,6 +29,54 @@ Bi-weekly calls on Thursdays (even weeks) from 1:30 to 3:00 pm CET. The meeting 
 ## 2. The Acquisition Package
 ### Membership
 Driver: [Joachim Krois](mailto:Joachim.krois@charite.de)
+| Members |
+|--|
+|  | 
+|  | 
+|  | 
+
+### Meetings
+### Documentation
+
+## 3. The Data Storage Package
+### Membership
+Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
+| Members |
+|--|
+|  | 
+|  | 
+|  | 
+
+### Meetings
+### Documentation
+
+## 4. The Annotation Package
+### Membership
+Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE> 
+| Members |
+|--|
+|  | 
+|  | 
+|  | 
+
+### Meetings
+### Documentation
+
+## 5. The Evaluation Package
+### Membership
+Drivers: [Luis Oala](mailto:ml@mllab.ai) @<575CFF5B-EA52-48A7-AB97-AC36CE9B2264>, [Alixandro Werneck](alixandrowerneck@outlook.com)
+| Members |
+|--|
+|  | 
+|  | 
+|  | 
+
+### Meetings
+### Documentation
+
+## 6. The Reporting Package
+### Membership
+Driver: [Pradeep Balachandran ](mailto:pbn.tvm@gmail.com) @<4F1FD006-78A8-4B20-B298-30997DEA8C78> 
 | Members |
 |--|
 |  | 

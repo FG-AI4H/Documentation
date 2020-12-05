@@ -25,7 +25,7 @@ code ~/.kube/config
 
 # -> make sure that path to aws binary is set, e.g. command: /usr/local/bin/aws
 
-kubectl config use-context arn:aws:eks:eu-central-1:601883093460:cluster/$CLUSTER_NAME
+kubectl config use-context arn:aws:eks:eu-central-1:[ACCOUNT_ID]:cluster/$CLUSTER_NAME
 
 kubectl get nodes
 ```

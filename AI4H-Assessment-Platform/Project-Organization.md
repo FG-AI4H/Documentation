@@ -9,6 +9,9 @@ The project is organized in 5 different streams:
 
 Each package has at least one driver in charge of reporting activities to the project management team. Drivers organize the work in their streams and coordinate with contributor members.
 
+### Meetings
+The management team meets on a bi-weekly call on Thursdays (odd weeks) from 12:30 pm to 1:30 pm CET
+
 ## 1. The Core Package
 ### Membership
 Driver: [Marc Lecoultre](mailto:ml@mllab.ai)

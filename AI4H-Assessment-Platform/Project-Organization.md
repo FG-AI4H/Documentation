@@ -10,7 +10,7 @@ The project is organized in 5 different streams:
 Each package has at least one driver in charge of reporting activities to the project management team. Drivers organize the work in their streams and coordinate with contributor members.
 
 ### Meetings
-The management team meets on a bi-weekly call on Thursdays (odd weeks) from 12:30 pm to 1:30 pm CET
+The management team meets on a bi-weekly call on Thursdays (odd weeks) from 12:30 pm to 1:30 pm CET. The meeting agenda is publicly available [here](https://calendar.google.com/calendar/u/2?cid=Y19obGJrOTBzNmFnczZpMjRxbnMzdXNyMml1Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## 1. The Core Package
 ### Membership

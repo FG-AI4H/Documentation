@@ -1,11 +1,11 @@
 # Overview
 The project is organized in 5 different streams:
 1. The Core Package
-1. The Data Acquisition Package
-1. The Data Annotation Package
-1. The Data Storage Package
-1. The Evaluation Package (merged with Prediction Package)
-1. The Reporting Package
+1. The Data Acquisition Package (DAP)
+1. The Data Annotation Package (AP)
+1. The Data Storage Package (DP)
+1. The Evaluation Package (merged with Prediction Package) (EP)
+1. The Reporting Package (RP)
 
 Each package has at least one driver in charge of reporting activities to the project management team. Drivers organize the work in their streams and coordinate with contributor members.
 
@@ -31,10 +31,10 @@ Several channels have been put in place:
 | #general | General channel available to all members and linked to MS Teams workspace |
 | #devops | Reflects all the updates done on Azure DevOps workspace |
 | #module_annotation_package_ap | Specific channel for the Annotation Package. It reflects all the updates done on the Annotation Package work items in Azure DevOps |
-| #module_data_acquisition_package_dap | Reflects all the updates done on Azure DevOps workspace |
-| #module_datastorage_package_dp | Reflects all the updates done on Azure DevOps workspace |
-| #module_evaluation_package_ep | Reflects all the updates done on Azure DevOps workspace |
-| #module_reporting_package_rp | Reflects all the updates done on Azure DevOps workspace |
+| #module_data_acquisition_package_dap | Specific channel for the Acquisition Package. It reflects all the updates done on the Annotation Package work items in Azure DevOps |
+| #module_datastorage_package_dp | Specific channel for the Data Storage Package. It reflects all the updates done on the Annotation Package work items in Azure DevOps |
+| #module_evaluation_package_ep | Specific channel for the Evaluation Package. It reflects all the updates done on the Annotation Package work items in Azure DevOps |
+| #module_reporting_package_rp | Specific channel for the Reporting Package. It reflects all the updates done on the Annotation Package work items in Azure DevOps |
 
 
 

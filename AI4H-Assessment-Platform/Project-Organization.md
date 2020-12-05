@@ -14,12 +14,13 @@ Each package has at least one driver in charge of reporting activities to the pr
 Driver: [Marc Lecoultre](mailto:ml@mllab.ai)
 | Members |
 |--|
-|  | 
+| [Dominik Schneider](mailto:dominik.a.schneider@merckgroup.com) | 
 |  | 
 |  | 
 
 ### Meetings
 ### Documentation
+- [Wiki page](/Core-Package-\(CP\))
 
 ## 2. The Acquisition Package
 ### Membership

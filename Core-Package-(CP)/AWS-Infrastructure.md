@@ -3,3 +3,34 @@ We decided to use AWS as our Cloud provider for the Free Software project. The m
 
 ## Architecture
 ![End2End MVP (1).jpg](/.attachments/End2End%20MVP%20(1)-9cfb57d6-6288-48e4-bbbe-8004451702a8.jpg) 
+
+### EKS Cluster
+The EKS cluster is running with internet-facing access of the K8S API endpoints now with the EC2 cluster nodes in private subnets.
+
+Autoscaling of EC2 cluster nodes is also already enabled and tested.
+ 
+To connect, make sure you have latest AWS CLI v2 and kubectl installed, then configure the following AWS user for the AWS CLI:
+
+>Please send your request to the Core Package Team to get access 
+
+Next, execute following on the command line:
+
+
+```
+CLUSTER_NAME=ai4h-mvp-k8s-dev
+
+aws eks --region eu-central-1 update-kubeconfig --name $CLUSTER_NAME
+
+code ~/.kube/config
+
+# -> make sure that path to aws binary is set, e.g. command: /usr/local/bin/aws
+
+kubectl config use-context arn:aws:eks:eu-central-1:601883093460:cluster/$CLUSTER_NAME
+
+kubectl get nodes
+```
+
+This should display the K8S EC2 cluster nodes. If it works you are connected and can deploy stuff.
+
+ 
+We recommend to use Lens for getting a quick overview of the K8S cluster state and find it very helpful: [https://k8slens.dev/](https://k8slens.dev/)

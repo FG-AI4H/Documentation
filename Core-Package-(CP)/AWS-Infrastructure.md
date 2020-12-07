@@ -7,6 +7,9 @@ We decided to use AWS as our Cloud provider for the Free Software project. The m
 ### Cognito
 Users authenticate using AWS Cognito service. They get a JWT token they use to get access to the required services. To use Cognito User Pools within your apps please refer to the documentation: [https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html)
 
+### S3 Bucket
+To upload private datasets we use presigned S3 URL ([see here](https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html)). This mechanism is managed by a Lambda function available in the [AWS FHIR implementation](https://github.com/awslabs/fhir-works-on-aws-deployment) 
+
 ### EKS Cluster
 The EKS cluster is running with internet-facing access of the K8S API endpoints now with the EC2 cluster nodes in private subnets.
 

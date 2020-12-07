@@ -1,0 +1,2 @@
+# Overview
+The Core Package (CP) consists of the core elements common to the whole Assessment Platform. It implements authentication and authorisation, persistant storage and communication between the different services.

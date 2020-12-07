@@ -5,10 +5,11 @@ We decided to use AWS as our Cloud provider for the Free Software project. The m
 ![End2End MVP (1).jpg](/.attachments/End2End%20MVP%20(1)-9cfb57d6-6288-48e4-bbbe-8004451702a8.jpg) 
 
 ### Cognito
-Users authenticate using AWS Cognito service. They get a JWT token they use to get access to the required services. To use Cognito User Pools within your apps please refer to the documentation: [https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html)
+Users authenticate using AWS Cognito service. They get a JWT token they use to get access to the required services. To use Cognito User Pools within your apps please refer to the documentation: [https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html).
+The endpoint is secured by API keys and Cognito for user-level authentication and user-group authorization.
 
 ### S3 Bucket
-To upload private datasets we use presigned S3 URL ([see here](https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html)). This mechanism is managed by a Lambda function available in the [AWS FHIR implementation](https://github.com/awslabs/fhir-works-on-aws-deployment) 
+To upload private datasets we use presigned S3 URL ([see here](https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html)). This mechanism is managed by a Lambda function available in the [AWS FHIR implementation](https://github.com/awslabs/fhir-works-on-aws-deployment).
 
 ### EKS Cluster
 The EKS cluster is running with internet-facing access of the K8S API endpoints now with the EC2 cluster nodes in private subnets.
@@ -40,3 +41,10 @@ This should display the K8S EC2 cluster nodes. If it works you are connected and
 
  
 We recommend to use Lens for getting a quick overview of the K8S cluster state and find it very helpful: [https://k8slens.dev/](https://k8slens.dev/)
+
+### Cloud Front, API Gateway
+The endpoint is hosted using API Gateway
+
+### DynamoDB, Elastisearch
+The database and storage layer consists of Amazon DynamoDB and S3, with Elasticsearch as the search index for the data written to DynamoDB
+

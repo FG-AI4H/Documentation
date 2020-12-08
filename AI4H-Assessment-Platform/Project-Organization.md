@@ -40,7 +40,7 @@ Driver: [Joachim Krois](mailto:Joachim.krois@charite.de)
 
 ## 3. The Data Storage Package
 ### Membership
-Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
+Driver: Marc Lecoultre @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
 | Members |
 |--|
 |  | 

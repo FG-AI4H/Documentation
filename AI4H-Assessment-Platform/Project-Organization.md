@@ -14,10 +14,10 @@ The management team meets on a bi-weekly call on Thursdays (odd weeks) from 12:3
 
 ## 1. The Core Package
 ### Membership
-Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
+Driver: Marc Lecoultre @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE>
 | Members |
 |--|
-| [Dominik Schneider](mailto:dominik.a.schneider@merckgroup.com) | 
+| Dominik Schneider @<BC694260-92A4-43CE-AB96-C3A09E12F4E7> | 
 |  | 
 |  | 
 
@@ -52,7 +52,7 @@ Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF447
 
 ## 4. The Annotation Package
 ### Membership
-Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE> 
+Driver: Marc Lecoultre @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF4475AE> 
 | Members |
 |--|
 |  | 
@@ -64,7 +64,7 @@ Driver: [Marc Lecoultre](mailto:ml@mllab.ai) @<F4E57CBA-AF7A-6DC2-A7CD-E9CCEF447
 
 ## 5. The Evaluation Package
 ### Membership
-Drivers: [Luis Oala](mailto:ml@mllab.ai) @<575CFF5B-EA52-48A7-AB97-AC36CE9B2264>, [Alixandro Werneck](alixandrowerneck@outlook.com)
+Drivers: Luis Oala @<575CFF5B-EA52-48A7-AB97-AC36CE9B2264>, [Alixandro Werneck](alixandrowerneck@outlook.com)
 | Members |
 |--|
 |  | 
@@ -76,7 +76,7 @@ Drivers: [Luis Oala](mailto:ml@mllab.ai) @<575CFF5B-EA52-48A7-AB97-AC36CE9B2264>
 
 ## 6. The Reporting Package
 ### Membership
-Driver: [Pradeep Balachandran ](mailto:pbn.tvm@gmail.com) @<4F1FD006-78A8-4B20-B298-30997DEA8C78> 
+Driver: Pradeep Balachandran @<4F1FD006-78A8-4B20-B298-30997DEA8C78> 
 | Members |
 |--|
 |  | 

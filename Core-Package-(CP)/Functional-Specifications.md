@@ -1,1 +1,1 @@
-[[_TOC_]]
+[Web navigation](/Core-Package-\(CP\)/Functional-Specifications/Web-navigation)

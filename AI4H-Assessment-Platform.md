@@ -3,7 +3,7 @@ Artificial intelligence (AI) can provide the basis for tools that improve global
 
 However, before AI-based tools are integrated in medical practice and applied to patients, it must be demonstrated that they serve the intended purpose without unintended effects. Of the AI-based tools that are currently used in medical practice, most were developed and regulated for a limited (e.g., national) public. Consequently, the adoption of AI-based tools is fragmented across the globe. As health is an issue that transcends borders, ITU/WHO FG-AI4H encourages a collective effort among stakeholders (including developers, regulators, healthcare practitioners, and public health institutes) from across the globe to ensure the safety and trustworthiness of AI-based tools and to permit their widespread implementation. 
 
-This Free Software Project aims to produce the digital building blocks (six software packages) that compose the FG-AI4H Assessment Platform. The assessment platform, which can be distinguished from AI “challenge” platforms through its consideration of regulatory guidelines and the needs of other AI for health stakeholders, supports the end-to-end assessment of AI for health algorithms. 
+This Open Code Project aims to produce the digital building blocks (six software packages) that compose the FG-AI4H Assessment Platform. The assessment platform, which can be distinguished from AI “challenge” platforms through its consideration of regulatory guidelines and the needs of other AI for health stakeholders, supports the end-to-end assessment of AI for health algorithms. 
  
 
 # Goals
@@ -16,7 +16,7 @@ b. Opportunity: The software platform can serve as a safe and neutral arbiter be
    a. Challenge: Regulatory compliance of AI for health is a country-dependent process, which brings considerable costs.
 b. Opportunity: Map country requirements to automated tests.
 
-The Free Software Project capitalizes on these opportunities to make AI for health usable at scale. 
+The Open Code Project capitalizes on these opportunities to make AI for health usable at scale. 
 
 
 Our product vision is the following:
@@ -30,7 +30,7 @@ our platform focuses specifically on healthcare and covers all additional aspect
 
 
 # Scope
-The Free Software Project produces software comprising the foundation of the FG-AI4H Assessment Platform and addressing the aforementioned—and other—challenges in the field of AI for health. These are: Data Acquisition Package (DAP), Data Storage Package (DP), an Annotation Package (AP), a Prediction Package (PP), an Evaluation Package (EP), and a Reporting Package (RP). The following table highlights the purpose, functionalities, and target groups for each package.
+The Open Code Project produces software comprising the foundation of the FG-AI4H Assessment Platform and addressing the aforementioned—and other—challenges in the field of AI for health. These are: Data Acquisition Package (DAP), Data Storage Package (DP), an Annotation Package (AP), a Prediction Package (PP), an Evaluation Package (EP), and a Reporting Package (RP). The following table highlights the purpose, functionalities, and target groups for each package.
 
 # Components
 

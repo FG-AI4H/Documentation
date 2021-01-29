@@ -45,7 +45,7 @@ The Open Code Project produces software comprising the foundation of the FG-AI4H
 
 
 # Contributing
-The AI4H Assessment Platform is released under a modified BSD license and follows a standard development process, which uses tracker for issues and merging pull requests into master. For any type of contribution (even something trivial), please follow the guidelines below.
+The AI4H Assessment Platform is released under a [modified BSD license](/AI4H-Assessment-Platform/Open-Code-Modified-BSD-License) and follows a standard development process, which uses tracker for issues and merging pull requests into master. For any type of contribution (even something trivial), please follow the guidelines below.
 
 ## Join the core team
 If you want to join the core team please send an email to [ml@mllab.ai](mailto:ml@mllab.ai) expressing your interest in joining a specific component development.

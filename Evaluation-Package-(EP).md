@@ -12,6 +12,7 @@ Staging frontend is at https://3.64.132.163/ (due to the self-signed SSL, browse
 | Task | Description and Purpose | Responsible | Status |
 |--|--|--|--|
 | Move Repo to Github | Switch origin in respective folder on AWS instances and also adapt the "download secrets from S3" mechanism | Steffen | [ ] |
+| Ask evalai team for help | Dominik is in contact with EvalAI team lead. They can probably boost our troubleshooting efforts with one or two video call. | Dominik | [ ] |
 | Check Access Policy from EC2 to S3| Worker needs to be able to read the .zip; Currently there is a 403 error | Dominik | [ ] |
 (SV): I still need to move the rest of the tasks to this list
 

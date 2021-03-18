@@ -1,5 +1,6 @@
 # Scope
 Here we track all changes and tasks necessary to bring the EvalAI platform to life.
+Staging frontend is at https://3.64.132.163/ (due to the self-signed SSL, browsers give a warning)
 
 # "Off-line" Tasks
 (stuff that needs to be done outside of the repo or AWS account)

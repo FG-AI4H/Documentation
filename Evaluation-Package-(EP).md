@@ -1,6 +1,9 @@
 # Scope
-Here we track all changes and tasks necessary to bring the EvalAI platform to life.
-Staging frontend is at https://3.64.132.163/ (due to the self-signed SSL, browsers give a warning)
+This is a summary slide for various activities around the evaluation platform. Currently the code and issue management is done in a private repository in Github. See https://github.com/aiaudit-org/fgai4h-evaluation-platform
+If you want to participate please contact Luis Oala at luis.oala@hhi.fraunhofer.de
+
+
+Staging frontend is at https://ai4h-audit.org (due to the self-signed SSL, browsers give a warning)
 
 # "Off-line" Tasks
 (stuff that needs to be done outside of the repo or AWS account)
@@ -9,19 +12,7 @@ Staging frontend is at https://3.64.132.163/ (due to the self-signed SSL, browse
 - register with email service
 
 # Tasks
-| Task | Description and Purpose | Responsible | Status |
-|--|--|--|--|
-| Move Repo to Github | Switch origin in respective folder on AWS instances and also adapt the "download secrets from S3" mechanism | Steffen | [ ] |
-| Ask evalai team for help | Dominik is in contact with EvalAI team lead. They can probably boost our troubleshooting efforts with one or two video call. | Dominik | [ ] |
-| Check Access Policy from EC2 to S3| Worker needs to be able to read the .zip; Currently there is a 403 error | Dominik | [ ] |
-(SV): I still need to move the rest of the tasks to this list
-
-# Changes as part of troubleshooting
-
-List from Steffen
-- /media/ in S3 is pulled with AWS CLI rather the official django migrate command (there was an error; see line 8:9 in /docker/prod/django/container-start.sh)
-- currently there is a dummy mail service in place (registered with sendgrid by Steffen; needs to go to AWS SES)
-
+issues are managed here: https://github.com/aiaudit-org/fgai4h-evaluation-platform/issues
 
 # Things in .gitignore
 This should an impression what still needs to be added to the public repo in order to work properly.

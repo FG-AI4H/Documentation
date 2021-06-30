@@ -7,7 +7,7 @@ https://app.swaggerhub.com/apis/mllabai/FG-AI4H-OC-AP/0.0.1#/
 ## Campaign Manager
 Required and provided interfaces for the Campaign Manager component.
 
-![interfaces.png](/.attachments/interfaces-86aa047d-46de-4b50-b8c0-8e9b5aa91911.png)
+![interfaces.png](/.attachments/interfaces-0ba454b2-bdf6-44d6-ae16-9cdb1331bb65.png)
 
 The following sections list the provided interfaces.
 

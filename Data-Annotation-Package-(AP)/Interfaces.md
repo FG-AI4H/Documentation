@@ -1,14 +1,17 @@
 # Interfaces description
+Interfaces are decribed using OpenAPI 3.0 specifications. 
+
+The Swagger can be found here
+https://app.swaggerhub.com/apis/mllabai/FG-AI4H-OC-AP/0.0.1#/
+
 ## Campaign Manager
 Required and provided interfaces for the Campaign Manager component.
 
 ![interfaces.png](/.attachments/interfaces-86aa047d-46de-4b50-b8c0-8e9b5aa91911.png)
 
 The following sections list the provided interfaces.
-Swagger can be found here
-https://app.swaggerhub.com/apis/mllabai/FG-AI4H-OC-AP/1.0.0#/
 
-### /annotation
+### /annotations
 #### post
 This operation creates an annotation for an annotation task. The annotation is represented as a nifti file.
 ```

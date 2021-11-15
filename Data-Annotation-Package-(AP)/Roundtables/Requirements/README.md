@@ -2,8 +2,8 @@
 
 ## Timeline
 
-- Send out invite by Nov 15th/16th
-- Round table 6th-10th December
+- Send out invite by 15/16 Nov 2021
+- Round table 6-10 December 2021
 - Set up agenda and provide hypothesis 
 
 ## Agenda

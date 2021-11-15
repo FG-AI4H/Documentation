@@ -41,24 +41,27 @@
 ### Closing
 
 ## Notes
-Max 3 hours; Online event before Christmas
+This roundtable should last max 3 hours; It will be online and planned before Christmas
 
-Ground truth
-Review process
-Calibration (several people doing the same thing)
+### Main topics to be discussed
+- Ground truth
+- Review process
+- Calibration (several people doing the same thing)
 
-Regulatory 1 (aware of MDR and FDA, reference test, ground truth)
-Domain expert
-AI expert (data expert) 1 for 2 topics (understand how to build system with input data (requirements))
-Standards guy 1 (data team requirements) Luis
-Clinician 1
+### Target participants (8 people + moderator)
+- Regulatory 1 (aware of MDR and FDA, reference test, ground truth)
+- Domain expert
+- AI expert (data expert) 1 for 2 topics (understand how to build system with input data (requirements))
+- Standards 1 (data team requirements) Luis
+- Clinician 1
 
+TG-Dental agreed to participate
 Dental: Joachim + 1
-Second keep image process: Histo
+
+We are looking for a second TG with focus on image process: Histo?
 
 Invite Prof. Klauschen or technologies that built an annotation tool (infusion, HPI)
 
-8 people + moderator
 
 
 

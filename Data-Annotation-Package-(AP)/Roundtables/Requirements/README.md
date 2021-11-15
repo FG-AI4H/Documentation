@@ -17,8 +17,8 @@
 #### Part 1 The value of labels
 - What kind of labels are relevant (image labels, segmentation masks, measurements)? 
 - How many labels are needed to develop a model that is clinically useful? 
-- How much time and human resources are for annotation?
-- How easy is the task - Hard vs fuzzy ground truth.
+- How much time and human resources are needed for annotation?
+- How easy is the task? - Hard vs fuzzy ground truth.
 - How can disagreements on an expert level be solved?
 - Qualification, calibration and roles of annotators.
 
@@ -41,7 +41,7 @@
 ### Closing
 
 ## Notes
-Max 3 hours. remote before Christmas
+Max 3 hours; Online event before Christmas
 
 Ground truth
 Review process
@@ -56,7 +56,7 @@ Clinician 1
 Dental: Joachim + 1
 Second keep image process: Histo
 
-Invite Prof. Klauchen or technologies that built an annotation tool (infusion, HPI)
+Invite Prof. Klauschen or technologies that built an annotation tool (infusion, HPI)
 
 8 people + moderator
 

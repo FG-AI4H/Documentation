@@ -1,3 +1,3 @@
 # Regulatory Documents
 
-1. Software Architecture: https://docs.google.com/document/d/1hPVn1zC9JMsMHvjYBrUHfQ1J1Z-uMlMn/edit?usp=sharing&ouid=106466066450882677590&rtpof=true&sd=true
+1. Software Architecture: https://fg-ai4h.atlassian.net/wiki/spaces/OCI/pages/458756/Software+Architecture+SDS

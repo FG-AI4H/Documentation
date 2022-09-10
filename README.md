@@ -44,7 +44,7 @@ The Open Code Project produces software comprising the foundation of the FG-AI4H
 | [RP](/Reporting-Package-\(RP\)) | RP delivers a standardized format for communicating and reporting the properties, features, intended use, and limitations of AI for health to help connect different stakeholders. | A customizable reporting interface that presents the results of EP | Manufacturers, notified regulatory bodies, users of AI for health (doctors, patients), and vendors of AI for health |
 
 # Contributing
-If you are interested in contributing to this project please read the (Onboarding documentation)[/Onboarding]
+If you are interested in contributing to this project please read the [Onboarding documentation](/Onboarding)
 
 ## Join the core team
 If you want to join the core team please send an email to [ml@mllab.ai](mailto:ml@mllab.ai) expressing your interest in joining a specific component development.

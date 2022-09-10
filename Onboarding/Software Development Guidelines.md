@@ -1,5 +1,3 @@
-# Software development guidelines
-
 # Setup your development environment
 
 Thank you for joining our team! Before you can start working with us you will have to setup a few accounts and tools. In our FG-AI4H, we value security and privacy and have established an onboarding process that respects those principles.

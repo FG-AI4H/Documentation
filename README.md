@@ -43,9 +43,8 @@ The Open Code Project produces software comprising the foundation of the FG-AI4H
 | [EP](/Evaluation-Package-\(EP\)) | Model performance is dependent on the choice of metric and possible parameters. Thus, it is of utmost importance to have a framework that allows for the comparison of the performance of different AI models. EP provides meaningful, state-of-the-art metrics that promise high expressibility. | Offers testing measures and methods for different quality dimensions including interpretation, bias, uncertainty, and robustness; questionnaires provide qualitative evaluation | Manufacturers, notified regulatory bodies |
 | [RP](/Reporting-Package-\(RP\)) | RP delivers a standardized format for communicating and reporting the properties, features, intended use, and limitations of AI for health to help connect different stakeholders. | A customizable reporting interface that presents the results of EP | Manufacturers, notified regulatory bodies, users of AI for health (doctors, patients), and vendors of AI for health |
 
-
 # Contributing
-The AI4H Assessment Platform is released under a [modified BSD license](/AI4H-Assessment-Platform/Open-Code-Modified-BSD-License) and follows a standard development process, which uses tracker for issues and merging pull requests into master. For any type of contribution (even something trivial), please follow the guidelines below.
+If you are interested in contributing to this project please read the (Onboarding documentation)[/Onboarding]
 
 ## Join the core team
 If you want to join the core team please send an email to [ml@mllab.ai](mailto:ml@mllab.ai) expressing your interest in joining a specific component development.
@@ -53,6 +52,8 @@ If you want to join the core team please send an email to [ml@mllab.ai](mailto:m
 ## FG-AI4H Resources
 More information about the Focus Group can be found [here](https://www.itu.int/en/ITU-T/focusgroups/ai4h/Pages/default.aspx).
 
+# License
+The AI4H Assessment Platform is released under a [modified BSD license](/AI4H-Assessment-Platform/Open-Code-Modified-BSD-License) and follows a standard development process, which uses tracker for issues and merging pull requests into master. For any type of contribution (even something trivial), please follow the guidelines.
 
 
 

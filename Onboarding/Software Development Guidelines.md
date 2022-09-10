@@ -48,7 +48,7 @@ GitHub User Access Request:
 - GitHub Org: myOrg
 - Full name: John Doe
 - GitHub ID: johnedoe
-- Email address: john.dow@itu.int
+- Email address: john.doe@itu.int
 - Organization: OCIO, Service BC
 - Project role: Full-stack Developer
 - Existing GitHub Repo: https://github.com/fg-ai4h/annotation, https://github.com/fg-ai4/ai-audit
@@ -62,9 +62,22 @@ The FG-AI4H leverages AWS Cloud services to host its softwares. In some cases, d
 
 ## Local setup
 
+Most of the coding activities will happen on your local environment. In the [DevSecOps Phase Code Tool](/wiki/spaces/OCI/pages/14942272/Common+Coding+Tools) section we have validated two IDEs you can work with for this project.
+
 ### IDE configuration
 
+We are providing the configuration for each IDE. Please refer to the one your are using: TODO
+
+*   JetBrain IDE
+    
+*   Visual Studio Code
+    
+
 ### Git configuration
+
+In order to be able to push your code to our GitHub repository, you need to follow these steps:
+
+TODO
 
 # Develop
 

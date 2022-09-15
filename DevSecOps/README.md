@@ -43,7 +43,7 @@
 
 # Software Factory Pipeline
 
-![](https://fg-ai4h.atlassian.net/wiki/download/thumbnails/13172737/image-20220909-114100.png?version=1&modificationDate=1662723663002&cacheVersion=1&api=v2&width=453&height=180)
+![](./Resources/8ffd13cd-3498-4a52-8443-7d4e0f1a9766.png)
 
 # Governance Guiding Principles
 
@@ -60,7 +60,7 @@
 
 # Software Development over time
 
-![](https://fg-ai4h.atlassian.net/wiki/download/thumbnails/13172737/image-20220909-114117.png?version=1&modificationDate=1662723679370&cacheVersion=1&api=v2&width=446&height=285)
+![](./Resources/506ff75e-bc41-4c9f-9e86-9462ab76e6c4.png)
 
 # Introduction
 

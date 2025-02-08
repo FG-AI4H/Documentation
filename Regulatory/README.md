@@ -47,33 +47,54 @@ To achieve compliance, AI4H adopts a **multi-region AWS architecture** that ensu
 - Encryption, access control, and auditing mechanisms are enforced at every layer.
 - Secure data sharing is enabled only where explicitly allowed.
 
-#### **Technical Components:**
-- **Data Ingestion & Processing:** AWS HealthLake (FHIR data ingestion), AWS Glue (ETL processing), Amazon S3 (secure storage).
-- **Security & Compliance:** AWS IAM (role-based access control), AWS KMS (encryption), AWS CloudTrail (audit logging), AWS Security Hub (security posture management).
-- **Data Governance & Access Control:** AWS Lake Formation (federated governance), AWS Control Tower (multi-region policy enforcement), AWS Config (compliance monitoring).
-- **Compute & AI Training:** Amazon SageMaker (privacy-preserving AI training), AWS Inferentia (secure inference), AWS PrivateLink (isolated networking).
+## **3. Multi-Region AWS-Based Architecture for Compliance**
+A secure, scalable multi-region AWS architecture is essential for compliance. The AI4H initiative utilizes AWS services to enforce **data residency, security, governance, and federated AI capabilities.**
 
-### **Data Flow in a Secure AWS Environment**
-1. **Data Collection:** Healthcare data is ingested through **FHIR-compliant APIs** into AWS HealthLake or S3.
-2. **Data Storage & Processing:** Data is encrypted with **AWS KMS** and governed by AWS Lake Formation to ensure access is restricted to authorized entities.
-3. **Data Access & Governance:** Policies managed via **AWS Control Tower and SCPs** enforce access restrictions based on regulatory needs.
-4. **Monitoring & Auditing:** **AWS CloudTrail and AWS Config** track all access events, ensuring traceability for compliance audits.
-5. **AI Model Training & Evaluation:** Data is processed in-region using **Amazon SageMaker Federated Learning**, ensuring AI models can be trained without exposing sensitive data across borders.
+### **3.1 Core AWS Services Utilized**
+- **Amazon DataZone**: Provides federated governance and metadata management.
+- **AWS HealthLake**: Stores and processes **FHIR-compliant** health data while ensuring data residency.
+- **AWS Glue**: Enables ETL (Extract, Transform, Load) operations for structured data compliance.
+- **AWS Lake Formation**: Implements fine-grained access control and regulatory policies.
+- **AWS Control Tower**: Ensures multi-region governance and enforces compliance guardrails.
+- **AWS KMS**: Manages encryption keys for region-specific data protection.
 
-## Conclusion and Next Steps
-AI4H’s implementation on AWS provides a **comprehensive, scalable, and compliant** framework that ensures:
-- **Strict adherence to data privacy laws** through AWS Control Tower’s governance and data residency enforcement.
-- **Robust security mechanisms** using AWS KMS encryption, IAM access control, and AWS Shield for threat protection.
-- **Minimized data movement** through region-specific AI training and federated data governance.
+## **4. Technical Solutions for Data Security and Privacy**
+### **4.1 Data Encryption and Access Control**
+- **Encryption at Rest & In Transit**: AI4H uses **AWS KMS** for regional encryption management.
+- **Identity & Access Management**: AWS IAM provides **role-based access control (RBAC)**.
 
-Future roadmap initiatives include:
-- **Enhancing privacy-preserving AI models** using homomorphic encryption and differential privacy.
-- **Expanding multi-jurisdictional governance tools** with automated compliance validation.
-- **Strengthening regulatory collaborations** to align AI4H’s framework with evolving global standards.
+### **4.2 Secure Data Storage**
+- **AWS HealthLake** ensures **FHIR-compliant** medical data storage.
+- **AWS S3 with Object Lock** enables WORM (Write Once, Read Many) storage.
+
+## **5. Data Localization and Residency Strategy**
+- **AWS Control Tower & Service Control Policies (SCPs)** enforce data localization per regulatory requirements.
+- **AWS HealthLake** ensures patient data never leaves its assigned region.
+- **Cross-Border Compliance**: AWS Glue ensures **regulated, encrypted, and consent-based** data transfers.
+
+## **6. Federated Learning and Privacy-Preserving AI**
+AI4H employs **federated learning** to train AI models across multiple regions **without** moving sensitive patient data. **AWS SageMaker Federated Learning** ensures:
+- **Secure Model Training**: AI models learn from distributed datasets while maintaining data privacy.
+- **Homomorphic Encryption**: Ensures computations occur on encrypted data, reducing exposure risks.
+
+## **7. Governance, Consent Management, and Compliance Auditing**
+- **FHIR-Based Consent Management APIs** enforce patient-centric data-sharing rules.
+- **AWS CloudTrail & AWS Config** provide real-time **audit logs and security monitoring**.
+- **Amazon DataZone** manages data-sharing policies and compliance audits.
+
+## **8. Collaboration with Regulatory Bodies and Industry**
+AI4H collaborates with WHO, ITU, and WIPO to align AI regulations across multiple jurisdictions. **Regulatory sandboxes** enable AI4H to conduct compliance tests before full-scale deployment.
+
+## **9. Conclusion and Future Work**
+This publication presents a **scalable, secure, and compliant AWS-based framework** for AI-driven healthcare under AI4H. Future research areas include:
+1. **Advancing homomorphic encryption** for AI model training.
+2. **Developing AI-driven compliance monitoring** using AWS AI/ML services.
+3. **Expanding federated learning** to broader healthcare applications.
 
 ---
 
-### References
+### **References**
 - [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
 - [AWS Security Best Practices](https://aws.amazon.com/security/)
+- [FHIR Standard](https://www.hl7.org/fhir/)
 - [AWS Regulatory Resources](https://aws.amazon.com/compliance/regulatory/)
